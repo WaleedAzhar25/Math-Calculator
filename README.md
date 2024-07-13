@@ -21,7 +21,7 @@ The Application collects your device's location, which helps the Service Provide
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to waleedazhar903@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Middleeastapps786@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
@@ -43,13 +43,13 @@ You can stop all collection of information by the Application easily by uninstal
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at waleedazhar903@gmail.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at Middleeastapps786@gmail.com and they will respond in a reasonable time.
 
 **Children**
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (waleedazhar903@gmail.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (Middleeastapps786@gmail.com) so that they will be able to take the necessary actions.
 
 **Security**
 
@@ -67,6 +67,6 @@ By using the Application, you are consenting to the processing of your informati
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at waleedazhar903@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at Middleeastapps786@gmail.com.
 
 * * *
